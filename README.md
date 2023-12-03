@@ -1,6 +1,6 @@
  ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">A passionate frontend developer from Istanbul</h3>
+<h3 align="center">A passionate frontend developer from Istanbul</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusye&label=Profile%20views&color=7b848a&style=flat" alt="yunusye" /> </p>
